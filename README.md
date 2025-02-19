@@ -55,14 +55,22 @@ Importancia: El soporte técnico y las actualizaciones regulares son fundamental
 # Contrato Social
 
 1--Respeto mutuo: Los miembros se comprometen a tratar a los demás con respeto y dignidad, sin discriminación por razones de género, raza, religión, orientación sexual o cualquier otra condición.
+
 2-- Comunicación efectiva: Los miembros se comprometen a comunicarse de manera clara y respetuosa, escuchando activamente y respondiendo de manera oportuna.
+
 3-- Colaboración y cooperación: Los miembros se comprometen a trabajar juntos para alcanzar los objetivos comunes, compartiendo responsabilidades y apoyándose mutuamente.
-4-- Responsabilidad y compromiso: Los miembros se comprometen a cumplir con sus responsabilidades y compromisos, siendo puntuales y cumpliendo con los plazos establecidos.
+
+4-- Responsabilidad y compromiso: Los miembros se comprometen a cumplir con sus responsabilidades y compromisos, siendo puntuales y cumpliendo con los plazos establecidos
+
 5-- Respeto por la privacidad: Los miembros se comprometen a respetar la privacidad y la confidencialidad de la información personal y profesional de los demás
-6-- Uso responsable de los recursos: Los miembros se comprometen a utilizar los recursos comunes de manera responsable y eficiente, evitando el desperdicio y el daño.
+
+6-- Uso responsable de los recursos: Los miembros se comprometen a utilizar los recursos comunes de manera responsable y eficiente, evitando el desperdicio y el daño
 7-- Mantenimiento del orden y la limpieza: Los miembros se comprometen a mantener el espacio común en orden y limpio, contribuyendo a la conservación del entorno.
-8-- Resolución de conflictos: Los miembros se comprometen a resolver los conflictos de manera pacífica y constructiva, buscando soluciones que beneficien a todos.
+
+8-- Resolución de conflictos: Los miembros se comprometen a resolver los conflictos de manera pacífica y constructiva, buscando soluciones que beneficien a todos
+
 9-- Apoyo y solidaridad: Los miembros se comprometen a apoyar y solidarizarse con los demás en momentos de necesidad o dificultad.
+
 10-- Compromiso con la mejora continua: Los miembros se comprometen a buscar la mejora continua en sus acciones y decisiones, evaluando y ajustando sus comportamientos para alcanzar los objetivos comunes.
 
 
