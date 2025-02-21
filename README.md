@@ -73,6 +73,8 @@ Importancia: El soporte técnico y las actualizaciones regulares son fundamental
 
 10-- Compromiso con la mejora continua: Los miembros se comprometen a buscar la mejora continua en sus acciones y decisiones, evaluando y ajustando sus comportamientos para alcanzar los objetivos comunes.
 
+# Trabajo asignado de cada uno
+
 
 
 
