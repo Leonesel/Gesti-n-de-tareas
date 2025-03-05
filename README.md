@@ -29,6 +29,27 @@ Beneficios
 - Permite una mejor organización y planificación de las tareas
 - Facilita la colaboración y el trabajo en equipo
 
+#A
+1. Diseñar la interfaz de usuario:
+Crear un prototipo de la interfaz de usuario del programa, incluyendo la dispocición de los elementos y la estética
+2.Definir los requisitos del programa:
+Identificar las funcionalidades y características que debe tener el programa.
+3.
+
+4.Implementar la autenticación y autorización:
+Crea un sistema de autenticación y autorización para que los usuarios puedan acceder y modificar sus tareas.
+5.Desarrollar la funcionalidad de creación de tareas:
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
 # 10 ploblematicas y su importancia
 
 1. Dificultad para asignar y priorizar tareas
