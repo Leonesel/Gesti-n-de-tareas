@@ -33,35 +33,43 @@ Beneficios
 
 1. Diseñar la interfaz de usuario:
 Crear un prototipo de la interfaz de usuario del programa, incluyendo la dispocición de los elementos y la estética
+trabajo: 3
 
 2.Definir los requisitos del programa:
 Identificar las funcionalidades y características que debe tener el programa.
+trabajo: 5
 
 3.
 
+trabajo: 8
 
 4.Implementar la autenticación y autorización:
 Crea un sistema de autenticación y autorización para que los usuarios puedan acceder y modificar sus tareas.
+trabajo: 8
 
 5.Desarrollar la funcionalidad de creación de tareas:
 Permitir a los usuarios crear nuevas tareas, incluyendo la asignación de título, descripción, fecha de vencimiento y prioridad.
+trabajo: 13
 
 6.Implementar la funcionalidad de lista de tareas:
 Mostrar una lista de tareas pendientes y permitir a los usuarios filtrar y ordenar tareas.
+trabajo: 13
 
 7.Desarrollar la funcionalidad de asignación de tareas:
 Permitir a los usuarios asignar tareas a otros miembros del equipo y establecer fechas de vencimiento y recordatorios.
+trabajo: 21
 
 8.Implementar la funcionalidad de seguimiento de progreso:
 Permitir a los usuarios ver el progreso de las tareas y recibir notificaciones cuando se complete una tarea.
+trabajo: 34
 
 9.Desarrollar la funcionalidad de informes de análisis:
 Generar informes y análisis sobre el progreso de las tareas y el rendimiento del equipo.
-trabajo:
+trabajo: 34
 
 10.Implementar la integración con otras herramientas:
 Integrar el programa de gestión de tareas con otras herramientas y servicios, como calendarios, correos electrónicos y plataformas de colaboración.
-trabajo:
+trabajo: 21
 # 10 ploblematicas y su importancia
 
 1. Dificultad para asignar y priorizar tareas
