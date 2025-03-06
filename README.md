@@ -29,7 +29,7 @@ Beneficios
 - Permite una mejor organización y planificación de las tareas
 - Facilita la colaboración y el trabajo en equipo
 
-#A 10
+# 10 A
 
 1. Diseñar la interfaz de usuario:
 Crear un prototipo de la interfaz de usuario del programa, incluyendo la dispocición de los elementos y la estética
