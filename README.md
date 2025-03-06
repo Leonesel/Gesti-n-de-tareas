@@ -39,9 +39,9 @@ trabajo: 3
 Identificar las funcionalidades y características que debe tener el programa.
 trabajo: 5
 
-3.
-
-trabajo: 8
+3.Desarrollar la base de daros: 
+Diseñar e implementar una base de datos para almacenar las tareas y la información
+trabajo: 34
 
 4.Implementar la autenticación y autorización:
 Crea un sistema de autenticación y autorización para que los usuarios puedan acceder y modificar sus tareas.
