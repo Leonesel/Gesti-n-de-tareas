@@ -3,10 +3,10 @@
 
 Creado por:
 
-- Eduardo
-- Romina
-- Zarahi
-- Vanessa
+- Leonesel
+- rom1-lad
+- zarahi0997
+- vaneegd
 
 # descripcion
 
@@ -115,7 +115,10 @@ Importancia: El soporte técnico y las actualizaciones regulares son fundamental
 10-- Compromiso con la mejora continua: Los miembros se comprometen a buscar la mejora continua en sus acciones y decisiones, evaluando y ajustando sus comportamientos para alcanzar los objetivos comunes.
 
 # Trabajo asignado de cada uno
-
+- Eduardo - Leonesel
+- Romina - rom1-lad
+- Zarahi - zarahi0997
+- Vanessa - vaneegd
 
 
 
